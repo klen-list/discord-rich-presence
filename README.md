@@ -1,7 +1,7 @@
 Garry's Mod Discord Rich Presence Dll Module Source
 =====================
 
-Source for creating dll lua module.
+~~Source for creating dll lua module.~~
 
 ### Using steps:
 `1. Download and unpack folder.`
